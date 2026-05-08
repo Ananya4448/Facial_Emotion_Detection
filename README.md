@@ -305,7 +305,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 **Issue: Webcam not detected**
 
